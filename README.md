@@ -1,5 +1,5 @@
 <!----------------------------------- Banner - GeekyShows ------------------------------------>
-![banner](https://github.com/Rash93311/Rash93311/blob/main/banner.jpg)
+<img src="https://github.com/Rash93311/Rash93311/blob/main/banner.jpg" alt="Banner" />
 
 
 <!----------------------------------- About Section ------------------------------------>
@@ -15,8 +15,8 @@
   </P> 
 </div>
 
-[![WEBSITE](https://img.shields.io/badge/WEBSITE-%23E23434.svg?style=for-the-badge)](https://rwgshop.ru/)
-[![MAIL](https://img.shields.io/badge/MAIL-%23E23434.svg?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:rastygt500@gmail.com)
+<img src="https://img.shields.io/badge/WEBSITE-%23E23434.svg?style=for-the-badge"><a href="https://rwgshop.ru/" />
+<img src="https://img.shields.io/badge/MAIL-%23E23434.svg?style=for-the-badge&logo=maildotru&logoColor=white"><a href="mailto:rastygt500@gmail.com"/>
 <hr>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
