@@ -15,9 +15,9 @@
   </P> 
 </div>
 
-<img src="https://img.shields.io/badge/WEBSITE-%23E23434.svg?style=for-the-badge"><a href="https://rwgshop.ru/" />
+<!--<img src="https://img.shields.io/badge/WEBSITE-%23E23434.svg?style=for-the-badge"><a href="https://rwgshop.ru/" />
 <img src="https://img.shields.io/badge/MAIL-%23E23434.svg?style=for-the-badge&logo=maildotru&logoColor=white"><a href="mailto:rastygt500@gmail.com"/>
-<hr>
+<hr>-->
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 <h2>Tech Stack</h2>
