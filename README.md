@@ -1,5 +1,5 @@
 <!----------------------------------- Banner - GeekyShows ------------------------------------>
-![banner](https://github.com/Rash93311/Rasty-s-Web-Group/blob/main/banner.jpg)
+![banner](https://github.com/Rash93311/Rash93311/blob/main/banner.jpg)
 
 
 <!----------------------------------- About Section ------------------------------------>
